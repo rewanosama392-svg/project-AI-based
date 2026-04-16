@@ -1,0 +1,36 @@
+Job Title: Senior Python Developer
+Location: Cairo, Egypt
+Job Type: Full-Time
+
+ABOUT THE POSITION
+We are seeking an experienced Senior Python Developer to join our growing team. The ideal candidate will have a strong background in Python development, machine learning, and cloud technologies.
+
+RESPONSIBILITIES
+- Develop and maintain Python applications
+- Design and implement machine learning models
+- Work with SQL databases and optimize queries
+- Collaborate with cross-functional teams
+- Mentor junior developers
+- Contribute to architectural decisions
+
+REQUIRED QUALIFICATIONS
+- 5+ years of Python development experience
+- Strong SQL knowledge
+- Experience with machine learning and scikit-learn
+- AWS or cloud platform experience
+- Experience with FastAPI or Django
+- Bachelor's degree in Computer Science or related field
+
+PREFERRED QUALIFICATIONS
+- Experience with TensorFlow or PyTorch
+- Power BI or data visualization experience
+- AWS certification
+- Docker and Kubernetes knowledge
+- Experience leading teams
+
+WHAT WE OFFER
+- Competitive salary (25,000-35,000 EGP)
+- Health insurance
+- Professional development opportunities
+- Remote work options
+- Flexible working hours
