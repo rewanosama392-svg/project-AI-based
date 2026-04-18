@@ -1,0 +1,33 @@
+Senior Python Developer
+Cairo, Egypt
+Email: john@example.com
+Phone: +20 123 456 7890
+
+PROFESSIONAL SUMMARY
+Experienced Senior Python Developer with 7 years of professional experience in developing scalable applications and machine learning solutions. Proficient in Python, SQL, machine learning frameworks, and cloud technologies. Strong track record of delivering high-quality software solutions.
+
+EXPERIENCE
+Senior Python Developer - Tech Company (2020-Present)
+- Developed machine learning models using scikit-learn and TensorFlow
+- Managed SQL databases and optimized queries
+- Led a team of 3 junior developers
+- Worked with AWS cloud infrastructure
+
+Middle Python Developer - Software House (2017-2020)
+- Developed Python applications and REST APIs
+- Worked with machine learning projects
+- Maintained SQL databases
+
+SKILLS
+- Languages: Python, SQL, JavaScript
+- Frameworks: Django, FastAPI, scikit-learn, TensorFlow
+- Databases: MySQL, PostgreSQL
+- Tools: Git, Docker, AWS, Excel, Power BI
+- Machine Learning: Supervised Learning, Data Analysis
+
+EDUCATION
+Bachelor of Computer Science - Cairo University (2017)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect
+- Python for Data Science - Coursera
